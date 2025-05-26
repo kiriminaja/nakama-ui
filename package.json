@@ -1,5 +1,5 @@
 {
-  "name": "@kiriminaja/nakama-ui",
+  "name": "@nakama/ui",
   "version": "0.0.1",
   "description": "KiriminAja Nakama UI, a UI component library for Nuxt 3 applications.",
   "repository": "kiriminaja/nakama-ui",
