@@ -1,8 +1,4 @@
 <template>
-  <div>
-    Nuxt module playground!
-  </div>
+  <div>Nuxt module playground!</div>
+  <NxButton />
 </template>
-
-<script setup>
-</script>
